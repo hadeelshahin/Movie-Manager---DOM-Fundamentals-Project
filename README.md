@@ -22,3 +22,7 @@ Features:
 
 *Manipulating HTML Structure: Adds, removes, and modifies elements within the movie array and dynamically updates the UI accordingly.
 *Interactive Interface: Creates a responsive interface allowing users to interactively add movies and modify their details.
+*************************************************
+![Screenshot (5)](https://github.com/hadeelshahin/Movie-Manager---DOM-Fundamentals-Project/assets/106568841/d19badf8-9fcf-49f8-ab49-4b5409e42a9a)
+
+
